@@ -1,10 +1,10 @@
 ### Name : MADHUPRIYA R
 ### Register No : 24900083
-# EXPERIMENT NO 10 : SERIAL-IN-SERIAL-OUT-SHIFTREGISTER.
+# EXPERIMENT NO 6 : SERIAL-IN-SERIAL-OUT-SHIFTREGISTER.
 
 *AIM:*
 
-To implement  SR flipflop using verilog and validating their functionality using their functional tables.
+To implement Shift Register using verilog and validating their functionality using their functional tables.
 
 *SOFTWARE REQUIRED:*
 
